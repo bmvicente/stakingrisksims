@@ -125,7 +125,7 @@ def weighted_risk_scores(security_audits, uptime, steth, validators, market_shar
 def main():
     st.set_page_config(layout="wide")
 
-    #st.image("images/eigenimage.png")
+    st.image("images/lidologo.png")
 
     st.title("Staking Risk Simulator")
     st.title("Lido (stETH): Protocol Perspective")
